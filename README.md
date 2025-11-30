@@ -59,8 +59,8 @@ pip install poetry
 If you are cloning this repo:
 
 ```bash
-git clone https://github.com/mdwasikhan54/AI-Powred-Automatic-DoorBell.git
-cd AI-Powred-Automatic-DoorBell
+git clone https://github.com/mdwasikhan54/AI-Powred-Automated-Smart-Doorbell.git
+cd AI-Powered-Automated-Smart-Doorbell
 ```
 
 ### 3\. Activate Virtual Environment
@@ -141,3 +141,4 @@ If you want to build a similar project using Poetry, here is the cheat sheet:
 </div>
 
 If you find this project helpful, please drop a ⭐ star on the repo! Contributions and feedback are welcome. 🚀
+
